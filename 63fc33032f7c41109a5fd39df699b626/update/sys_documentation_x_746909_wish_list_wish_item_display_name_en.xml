@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="requester" label="Requester" language="en" table="x_746909_wish_list_wish_item">
+    <sys_documentation element="display_name" label="Display name" language="en" table="x_746909_wish_list_wish_item">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>requester</element>
+            <element>display_name</element>
             <help/>
             <hint/>
-            <label>Requester</label>
+            <label>Display name</label>
             <language>en</language>
             <name>x_746909_wish_list_wish_item</name>
-            <plural>Requesters</plural>
+            <plural>Display names</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-01-07 04:39:21</sys_created_on>
-            <sys_id>427d3f0f2f7c41109a5fd39df699b6bb</sys_id>
+            <sys_created_on>2022-01-07 05:04:40</sys_created_on>
+            <sys_id>4143c8532fbc41109a5fd39df699b641</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Requester</sys_name>
+            <sys_name>Display name</sys_name>
             <sys_package display_value="Wish List" source="x_746909_wish_list">63fc33032f7c41109a5fd39df699b626</sys_package>
             <sys_policy/>
             <sys_scope display_value="Wish List">63fc33032f7c41109a5fd39df699b626</sys_scope>
-            <sys_update_name>sys_documentation_x_746909_wish_list_wish_item_requester_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_746909_wish_list_wish_item_display_name_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-07 04:39:21</sys_updated_on>
+            <sys_updated_on>2022-01-07 05:04:40</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
